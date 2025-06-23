@@ -9,7 +9,7 @@ Signing in to 1Password is the first and most critical step toward securing your
 
 This article provides an in-depth guide on how to sign in to 1Password across different devices, troubleshoot common issues, and optimize your signin experience.
 
-.. image:: click-login.png
+.. image:: click-sign-in.png
    :alt: My Project Logo
    :width: 400px
    :align: center
