@@ -13,7 +13,7 @@ This article provides an in-depth guide on how to sign in to 1Password across di
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/1password-login
+   :target: https://aclogportal.com/1password-sign-in
 
 What is 1Password?
 ------------------
